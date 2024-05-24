@@ -1,4 +1,4 @@
-# Lane Detection
+# Road Lane Detection
 
 This repository contains the implementation of a lane detection system written in Python. The project utilizes a video input to detect and highlight driving lanes, providing a foundational approach to understanding lane detection technologies commonly used in autonomous vehicles and driver assistance systems.
 
@@ -33,3 +33,7 @@ Ensure the video file `Lane_Detection_Test_Video_01.mp4` is in the same director
 ## Acknowledgments
 
 - Inspiration from basic lane detection principles.
+
+## Images
+
+![App Demo](images/app.png)
